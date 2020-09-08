@@ -13660,6 +13660,24 @@ section.lazy-placeholder:after {
   padding-bottom: 0px;
   background-color: #2e2e2e;
 }
+.cid-s9Y9Jk5orA {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-s9Y9Jk5orA .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s9Y9Jk5orA .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-s9Y9Jk5orA .mbr-text {
+  color: #767676;
+}
 .cid-s15Owe8O7s .navbar {
   padding: .5rem 0;
   background: #c1c1c1;
